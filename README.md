@@ -3,4 +3,4 @@
 # Awesome LLM Demos
 
 ## Project Assistant
-- AI-powered Project Assistant [[https://www.pac.chat/](https://www.pac.chat/)] [2022]
+- AI-powered Project Assistant [[https://www.pac.chat/](https://www.pac.chat/)] [2023]
