@@ -4,3 +4,7 @@
 
 ## Project Assistant
 - AI-powered Project Assistant [[https://www.pac.chat/](https://www.pac.chat/)] [2023]
+
+
+## Detecting AI-Generated Text
+- Detecting GPT-2 Generations with DetectGPT https://detectgpt.ericmitchell.ai/ [2023]
